@@ -1,4 +1,29 @@
-### Hi there 👋
+<!-- ### Hi there 👋
+
+
+**rodrigojolivi/rodrigojolivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+### Olá 👋 Bem vindo ao meu perfil !
+
+Eu sou Rodrigo Olivi, Desenvolvedor.NET Full Stack com experiência em C#, VB.NET, ASP.NET, ASP .NET Core, ASP .NET Core Identity, MVC, Razor, WebForms, Windows Forms, WebAPI, Swagger, EF6, EF Core, Injeção de dependência, Design Patterns, SOLID, KISS, DRY, Clean Code, Teste Unitário, Selenium WebDriver, TDD,  Git, TFS, VSTS, Docker, Angular 6+, CSS, Bootstrap, JQuery, TypeScript e JavaScript. 
+
+- 🔭 Já participei de diversos projetos interessantes e atualmente estou trabalhando em um sistema para o planejamento, gestão e execução de eventos.
+- 🌱 Estou sempre aberto à novas tecnologias e ferramentas do mercado.
+- ⚡ Gosto de desenvolver e estar com a família e amigos para umas boas risadas.
+- 📫 Você poderá me contatar pelo [linkedin](https://www.linkedin.com/in/rodrigojolivi/) ou [email](mailto:rodrigojolivi@gmail.com) ou acessar meu [currículo online](https://resume.io/r/ebLeNhaKq) 
+
 
 <!--
 **rodrigojolivi/rodrigojolivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
