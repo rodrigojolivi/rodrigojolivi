@@ -41,7 +41,7 @@ Eu sou Rodrigo Olivi, Desenvolvedor.NET Full Stack com experiência em:
 
 - Análise de Sistemas: Levantamento de requisitos, modelagem de banco de dados, desenvolvimento e sustentação de sistemas web e desktop utilizando tecnologias .NET. 
 
-- 🔭 Já participei de diversos projetos interessantes e atualmente estou alocado na TOTVS trabalhando no desenvolvimento de um sistema que realiza o ciclo completo de avaliação de desempenho da força de trabalho em empresas.
+- 🔭 Já participei de diversos projetos interessantes e atualmente trabalho na Izii desenvolvendo um portal de integração de benefícios.
 
 - 🌱 Estou sempre aberto à novas tecnologias e ferramentas do mercado.
 
